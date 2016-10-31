@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------------------
-Gerber File Extension Report For: AS5048B_Breakout.GBR   10/29/2016  8:36:49 AM
+Gerber File Extension Report For: AS5048B_Breakout.GBR   10/31/2016  8:18:54 AM
 ------------------------------------------------------------------------------------------
 
 
@@ -11,14 +11,8 @@ Layer Extension     Layer Description
 .GPB                Bottom Pad Master                       
 .GPT                Top Pad Master                          
 .GTO                Top Overlay                             
-.GTP                Top Paste                               
 .GTS                Top Solder                              
 .GBS                Bottom Solder                           
-.GBP                Bottom Paste                            
 .GBO                Bottom Overlay                          
 .GKO                Keep-Out Layer                          
-.GM1                Mechanical 1                            
-.GM7                Mechanical 7                            
-.GM13               Mechanical 13                           
-.GM15               Mechanical 15                           
 ------------------------------------------------------------------------------------------

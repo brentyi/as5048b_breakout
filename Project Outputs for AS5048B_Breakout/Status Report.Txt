@@ -6,22 +6,16 @@ From  : Variant [[No Variations]] of PCB Document [AS5048B_Breakout.PcbDoc]
    Generated File[AS5048B_Breakout.GPB]
    Generated File[AS5048B_Breakout.GPT]
    Generated File[AS5048B_Breakout.GTO]
-   Generated File[AS5048B_Breakout.GTP]
    Generated File[AS5048B_Breakout.GTS]
    Generated File[AS5048B_Breakout.GBS]
-   Generated File[AS5048B_Breakout.GBP]
    Generated File[AS5048B_Breakout.GBO]
    Generated File[AS5048B_Breakout.GKO]
-   Generated File[AS5048B_Breakout.GM1]
-   Generated File[AS5048B_Breakout.GM7]
-   Generated File[AS5048B_Breakout.GM13]
-   Generated File[AS5048B_Breakout.GM15]
    Generated File[AS5048B_Breakout.RUL]
    Generated File[AS5048B_Breakout.EXTREP]
    Generated File[AS5048B_Breakout.REP]
 
 
-Files Generated   : 18
+Files Generated   : 12
 Documents Printed : 0
 
-Finished Output Generation At 8:36:50 AM On 10/29/2016
+Finished Output Generation At 8:18:55 AM On 10/31/2016
