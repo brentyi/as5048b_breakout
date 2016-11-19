@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: AS5048B_Breakout.PcbDoc   11/15/2016  1:03:23 AM
+NCDrill File Report For: AS5048B_Breakout.PcbDoc   11/16/2016  12:34:58 AM
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -7,7 +7,7 @@ ASCII RoundHoles File : AS5048B_Breakout.TXT
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      12mil (0.305mm)                                           Round             54        PTH        3.27inch (82.97mm)
+T1      12mil (0.305mm)                                           Round             54        PTH        3.52inch (89.43mm)
 T2      32mil (0.8mm)                                             Round             8         PTH        0.68inch (17.18mm)
 T3      35mil (0.889mm)                                           Round             1         PTH        0.00inch (0.00mm)
 T4      130mil (3.3mm)                                            Round             3         PTH        1.23inch (31.24mm)
