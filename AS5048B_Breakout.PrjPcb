@@ -179,6 +179,10 @@ DItemRevisionGUID=
 DocumentPath=Project Outputs for AS5048B_Breakout\NC Drill\AS5048B_Breakout.TXT
 DItemRevisionGUID=
 
+[GeneratedDocument15]
+DocumentPath=Project Outputs for AS5048B_Breakout\Design Rule Check - AS5048B_Breakout.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Default Configuration
 ParameterCount=0
