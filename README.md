@@ -1,6 +1,6 @@
 # AS5048B Breakout
 
-![board images](Project Outputs for AS5048B_Breakout/boards.png)
+![board images](Project%20Outputs%20for%20AS5048B_Breakout/boards.png)
 
 This is a simple breakout PCB for the [AS5048B](http://ams.com/eng/Products/Magnetic-Position-Sensors/Angle-Position-On-Axis/AS5048B) 14-bit absolute magnetic encoder.
 
